@@ -18,11 +18,11 @@ Collaboration on GitHub
     ```javascript
     devs.push({
     
-        firstName : 'YourFirstName',
-        middleName: 'YourMiddleName',
-        lastName  : 'YourLastName',
-        gender    : '[Male/Female]',
-        username  : 'YourGitHubUsername'
+        firstName : 'Francis',
+        middleName: 'Serra',
+        lastName  : 'Lopez',
+        gender    : '[Male]',
+        username  : 'FrancisIX'
     
     });
     ```
